@@ -5,7 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include Machine Learning, Deep Learning,
   Data-Efficient AI, Graph Mining, Cybersecurity
 interests:
-  - Graph
+  - Machine Learning and Deep Learning
+  - Graph Mining
+  - Data-Efficient AI
 social:
   - icon: envelope
     icon_pack: fas
