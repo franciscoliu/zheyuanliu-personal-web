@@ -2,14 +2,14 @@
 title: Zheyuan (Frank) Liu
 role: Senior Student majoring in Computer Science and Applied Math
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Machine Learning, Deep Learning,
+  Data-Efficient AI, Graph Mining, Cybersecurity
 interests:
   - Graph
 social:
   - icon: envelope
     icon_pack: fas
-    link: zheyuanliu@brandeis.edu
+    link: "#zheyuanliu@brandeis.edu"
   - icon: github
     icon_pack: fab
     link: https://github.com/franciscoliu
