@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: zheyuanliu@brandeis.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/franciscoliu
@@ -26,7 +26,7 @@ education:
       year: 2023
     - course: B.S. in Applied Mathematics
       institution: Brandeis University
-      year: 2022
+      year: 2023
 email: zheyuanliu@brandeis.edu
 superuser: true
 highlight_name: true
