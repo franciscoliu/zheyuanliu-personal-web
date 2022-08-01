@@ -1,7 +1,7 @@
 ---
 title: Zheyuan (Frank) Liu
 role: Senior Student majoring in Computer Science and Applied Math
-avatar_filename: frank-formal-picture.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
