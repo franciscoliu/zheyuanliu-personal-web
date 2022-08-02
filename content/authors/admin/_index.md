@@ -1,5 +1,5 @@
 ---
-title: Zheyuan (Frank) Liu
+title: Zheyuan (Frank) Liu kjslkfjksdjfls
 role: Senior Student majoring in Computer Science and Applied Math
 avatar_filename: avatar.jpg
 bio: My research interests include Machine Learning, Deep Learning,
