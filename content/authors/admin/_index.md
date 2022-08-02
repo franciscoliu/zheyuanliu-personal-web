@@ -11,7 +11,8 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#zheyuanliu@brandeis.edu"
+    link: "#"
+    label: zheyuanliu@brandeis.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/franciscoliu
