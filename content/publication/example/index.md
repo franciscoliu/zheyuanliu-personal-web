@@ -1,4 +1,14 @@
 ---
+title: State-level COVID-19 Trend Forecasting Using Mobility and Policy Data
+publication_types:
+  - "1"
+authors:
+  - Yifei Wang
+  - Hao (Michael) Peng
+  - Long Sha
+  - admin
+  - Pengyu Hong
+publication_short: ""
 abstract: The importance of pandemic forecast cannot be overemphasized. We
   propose an interpretable machine learning approach for forecasting pandemic
   transmission rates by utilizing local mobility statistics and government
@@ -13,18 +23,16 @@ abstract: The importance of pandemic forecast cannot be overemphasized. We
   COVID-19 evolution with respect to state-level characteristics and can
   potentially inform local policymakers in devising customized response
   strategies.
+draft: false
+featured: true
+tags: []
 slides: ""
 url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - Yifei Wang
-  - Hao (Michael) Peng
-  - Long Sha
-  - admin
-  - Pengyu Hong
-author_notes: []
-publication: medRxiv
+image:
+  caption: ""
+  focal_point: SMART
+  preview_only: false
+  filename: featured.png
 summary: >-
   In this paper, we propose a data-driven approach that trains regression models
   for forecasting the
@@ -34,19 +42,12 @@ summary: >-
   policies. 
 url_dataset: ""
 url_project: ""
-publication_short: ""
 url_source: ""
 url_video: ""
-title: State-level COVID-19 Trend Forecasting Using Mobility and Policy Data
+author_notes: []
 doi: https://doi.org/10.1101/2021.01.04.21249218
-featured: true
-tags: []
+publication: medRxiv
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: feature.png
 date: 2022-08-02T20:30:46.652Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
