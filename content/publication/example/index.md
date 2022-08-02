@@ -22,7 +22,7 @@ authors:
   - Hao (Michael) Peng
   - Long Sha
   - admin
-  - View ORCID ProfilePengyu Hong
+  - Pengyu Hong
 author_notes: []
 publication: medRxiv
 summary: >-
@@ -38,7 +38,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: State-level COVID-19 Trend Forecasting Using Mobility and Policy Data
-doi: ""
+doi: https://doi.org/10.1101/2021.01.04.21249218
 featured: true
 tags: []
 projects: []
@@ -49,7 +49,7 @@ image:
   filename: feature.png
 date: 2022-08-02T20:30:46.652Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
