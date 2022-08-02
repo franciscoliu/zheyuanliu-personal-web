@@ -24,7 +24,7 @@ abstract: The importance of pandemic forecast cannot be overemphasized. We
   potentially inform local policymakers in devising customized response
   strategies.
 draft: false
-featured: true
+featured: false
 tags: []
 slides: ""
 url_pdf: ""
