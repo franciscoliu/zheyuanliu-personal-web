@@ -37,15 +37,20 @@ experience:
           and questions about the content from the lecture.
         * Assisted Professor grade assignments, exams and gave feedback to students.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Software Development Intern
+    company: VeryEngine
+    company_url: 'http://veryengine.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Hangzhou, China
+    date_start: '2020-06-01'
+    date_end: '2020-06-08'
+    description: |2-
+        Responsibilities include:
+        
+        * Utilized TypeScript and JavaScript to develop online VR showroom for dif-
+          ferent companies.
+        * Tested compatibility of VR Device (HTC Vive) with computers with different
+          CPU and GPU and gave feedback on device configuration and setup.
 design:
   columns: '2'
 ---
