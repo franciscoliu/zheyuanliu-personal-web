@@ -1,8 +1,9 @@
 widget: experience
+widget-id: Work Experience
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-
+Work Experience
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
