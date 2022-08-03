@@ -22,20 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assitant
-    company: Brandeis University
-    company_url: 'https://www.brandeis.edu/'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
     company_logo: org-gc
-    location: Waltham, MA
-    date_start: '2021-09'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Acted as teaching assistant for Python, JAVA and Operating System class,
-          held office hours each week helping students with programming assignments
-          and questions about the content from the lecture.
-        * Assisted Professor grade assignments, exams and gave feedback to students.
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X
