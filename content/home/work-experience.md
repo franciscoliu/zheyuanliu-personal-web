@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assitant
     company: Brandeis
     company_url: 'https://www.brandeis.edu/'
-    location: Waltham, MA
+    location: MA
     date_start: '2021-09'
     date_end: ''
     description: |2-
