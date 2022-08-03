@@ -46,7 +46,7 @@ experience:
         Responsibilities include:
         
         * Designed the front end of the paper that displays the relationship between the protein groups of different types of coronavirus with different hosts.                   Further, by taking advantage of machine learning, the paper presented a prediction of other connections between those two protein groups.
-        * Developed the [website](https://franciscoliu.github.io/detailed-virus-host.github.io/) through HTML, CSS, AJAX, Java, JQuery, etc. Imported the previous work           data of the paper from [github](https://github.com/hangyu98/IMSP). (Simple version of the [website](https://franciscoliu.github.io/francisco.github.io-virus-           host/))
+        * Developed the [website](https://franciscoliu.github.io/detailed-virus-host.github.io/) through HTML, CSS, AJAX, Java, JQuery, etc. Imported the previous work           data of the paper from [github](https://github.com/hangyu98/IMSP). (Simple version of the [website](https://franciscoliu.github.io/francisco.github.io-virus-host/))
         * Updated website based on the most recent result given by the algorithm. 
 
   - title: Visualizing the COVID-19 Trend Prediction
