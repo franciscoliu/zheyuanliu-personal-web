@@ -24,7 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assitant
     company: Brandeis
-    company_url: 'https://www.brandeis.edu/'
+    company_url: ''
+    company_logo: org-x
     location: MA
     date_start: '2021-09'
     date_end: ''
