@@ -51,6 +51,20 @@ experience:
         * Researched about BERT (Bidirectional Encoder Representations from Transformers) and helped rebuild the baseline for the project; later fine-tuned the model             to reach its best performance. 
         * Assisted the first author to draft a manuscript of the work and submitted to ICDM conference.
 
+  - title: Bridging Graph and Text for Malicious Behavior Detection on Social Media
+      company: Brandeis University
+      company_url: '"https://www.brandeis.edu/'
+      company_logo: 
+      location: Waltham, MA
+      date_start: '2021-12-01'
+      date_end: '2022-06-01'
+      description: |3-
+          Responsibilities include:
+
+          * Signified harmful posts/comments manually from more than 60k posts on Twitter to be served as training samples in the fine-tuning process of the model. 
+          * Researched about BERT (Bidirectional Encoder Representations from Transformers) and helped rebuild the baseline for the project; later fine-tuned the model             to reach its best performance. 
+          * Assisted the first author to draft a manuscript of the work and submitted to ICDM conference.
+
 
 
 design:
