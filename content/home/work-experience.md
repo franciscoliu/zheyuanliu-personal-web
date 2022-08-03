@@ -1,5 +1,5 @@
 ---
-widget: work-experience
+widget: experience
 widget_id: Work Experience
 headless: true
 weight: 30
