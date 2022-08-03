@@ -40,10 +40,10 @@ experience:
   - title: Software Development Intern
     company: VeryEngine
     company_url: 'http://veryengine.com/'
-    company_logo: org-x
+    company_logo: veryEngine-resize.png
     location: Hangzhou, China
     date_start: '2020-06-01'
-    date_end: '2020-06-08'
+    date_end: '2020-08-01'
     description: |2-
         Responsibilities include:
         
