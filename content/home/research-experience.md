@@ -1,7 +1,7 @@
 ---
 widget: experience
 widget_id: Research Experience
-weight: 30
+weight: 40
 title: Research Experience
 date_format: Jan 2006
 experience:
