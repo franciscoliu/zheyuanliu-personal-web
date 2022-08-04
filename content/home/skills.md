@@ -21,8 +21,7 @@ feature:
   - name: Deep Learning
   - name: Java
   - name: JavaScript
-  - name: HTML
-  - name: CSS
+  - name: Pytorch
   - name: SQL
   - name: Linux Command
 # Uncomment to use emoji icons.
