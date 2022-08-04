@@ -1,5 +1,6 @@
 ---
 widget: accomplishments
+widget-id: Awards and Honors
 date_format: Jan 2006
 item:
   - certificate_url: https://www.brandeis.edu/undergraduate-research/funding-opportunities/urf.html
