@@ -34,7 +34,7 @@ item:
 widget_id: Awards and Honors
 headless: true
 weight: 60
-title: Accomplish&shy;ments
+title: Awards and Honors
 subtitle: null
 design:
   columns: "2"
