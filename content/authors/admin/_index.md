@@ -25,13 +25,13 @@ organizations:
 education:
   courses:
     - course: B.S. in Computer Science
-      institution: Brandeis University
+      institution: Brandeis University, Waltham, MA
       year: 2023
     - course: B.S. in Applied Mathematics
-      institution: Brandeis University
+      institution: Brandeis University, Waltham, MA
       year: 2023
     - course: High School Diploma
-      institution: Gould Academy
+      institution: Gould Academy, Bethel, ME
       year: 2019
 email: zheyuanliu@brandeis.edu
 superuser: true
