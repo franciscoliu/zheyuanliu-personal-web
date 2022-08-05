@@ -30,6 +30,9 @@ education:
     - course: B.S. in Applied Mathematics
       institution: Brandeis University
       year: 2023
+    - course: High School Diploma
+      institution: Gould Academy
+      year: 2019
 email: zheyuanliu@brandeis.edu
 superuser: true
 highlight_name: true
