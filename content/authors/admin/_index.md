@@ -12,15 +12,19 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:zheyuanliu@brandeis.edu
+    label: ""
   - icon: github
     icon_pack: fab
     link: https://github.com/franciscoliu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zheyuan-liu-371738185/
-  - icon: instagram
+  - display:
+      header: false
+    label: ""
     icon_pack: fab
     link: https://www.instagram.com/liuzheyuan2001/
+    icon: instagram
 organizations:
   - name: Brandeis University
     url: https://www.brandeis.edu/
