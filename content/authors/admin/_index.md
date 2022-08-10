@@ -49,4 +49,4 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis Univ
 
 {{< icon name="calendar" pack="fas" >}} Upcoming News: 
 
-* **2022/8/14** I will be attending [KDD](https://kdd.org/kdd2022/) conference located at Washington DC this upcoming August. I am looking forward to communicate with all of the excellent researchers there!
+* **2022/8/14** I will be attending [KDD](https://kdd.org/kdd2022/) conference located at Washington DC this upcoming August. I am looking forward to talk to all of the excellent researchers there!
