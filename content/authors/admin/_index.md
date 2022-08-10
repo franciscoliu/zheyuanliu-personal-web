@@ -47,4 +47,4 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis Univ
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ZheyuanLiu_s_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="news" pack="fas" >}} News
+{{< icon name="calendar-clock" pack="fas" >}} News
