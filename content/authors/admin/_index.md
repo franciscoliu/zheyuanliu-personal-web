@@ -8,6 +8,7 @@ interests:
   - Machine Learning and Deep Learning
   - Graph Mining
   - Data-Efficient AI
+  - GNN Fairness
 social:
   - icon: envelope
     icon_pack: fas
