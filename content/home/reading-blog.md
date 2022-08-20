@@ -9,7 +9,7 @@ active: false
 content:
   filters:
     folders:
-      - publication
+      - Blog
     tag: ""
     category: ""
     publication_type: ""
