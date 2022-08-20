@@ -22,7 +22,7 @@ content:
   order: desc
 design:
   view: citation
-  columns: ""
+  columns: "4"
 ---
 
 {{% callout note %}}
