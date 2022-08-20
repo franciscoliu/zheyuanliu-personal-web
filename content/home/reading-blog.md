@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Reading Blog
 headless: true
-weight: 90
+weight: 100
 title: My Reading Blog
 subtitle: ""
 active: false
