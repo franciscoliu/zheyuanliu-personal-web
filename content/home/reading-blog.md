@@ -5,7 +5,7 @@ headless: true
 weight: 100
 title: Blog
 subtitle: ""
-active: false
+active: true
 content:
   filters:
     folders:
