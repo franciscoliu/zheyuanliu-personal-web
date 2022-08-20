@@ -22,6 +22,7 @@ content:
   order: desc
 design:
   view: citation
+  scroll-bar: true
   columns: "2"
 ---
 
