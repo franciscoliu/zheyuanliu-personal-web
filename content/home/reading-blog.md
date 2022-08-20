@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Reading Blog
+widget_id: Blog
 headless: true
 weight: 100
-title: Reading Blog
+title: Blog
 subtitle: ""
 active: false
 content:
