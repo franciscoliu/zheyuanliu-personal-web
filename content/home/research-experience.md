@@ -17,7 +17,7 @@ experience:
        
        * Analyzed the unique property of graph fairness data. 
        * Aimed to boost the performance of GNN model on fairness graph data while alleviating the oversmoothing problem.
-       * Enriched the representation diversity of model from three perspectives: the node embedding of fairness graph data, learned representation across different             experts in [Mixed of Expert (MOE)](https://machinelearningmastery.com/mixture-of-experts/), and learned representation across different-depth layers.
+       * Enriched the representation diversity of model from three perspectives: the node embedding of fairness graph data, learned representation across different             experts in (Mixed of Expert (MOE))[https://machinelearningmastery.com/mixture-of-experts/], and learned representation across different-depth layers.
        * Analyzed loss landscape of the model to  empirically and theoretically explain the effectiveness of diversity learning. 
        * Successfully improved the accuracy of a newly designed GNN based model under adversarial training and fairness data while restraining the oversmooth problem           from happening.
   - title: Bridging Graph and Text for Malicious Behavior Detection on Social Media
