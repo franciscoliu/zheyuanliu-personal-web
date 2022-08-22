@@ -30,9 +30,10 @@ experience:
     description: >-2
        Responsibilities include:
        
-       * Signified harmful posts/comments manually from more than 60k posts on Twitter to be served as training samples in the fine-tuning process of the model.
-       * Researched about BERT (Bidirectional Encoder Representations from Transformers) and helped rebuild the baseline for the project; later fine-tuned the model           to reach its best performance.
-       * Assisted the first author to draft a manuscript of the work and submitted to ICDM conference. 
+       * Signified harmful posts/comments manually from more than 60k tweets to serve as positive/negative samples during the training process.
+       * Collected project related information (e.g. BERT, GNN and contrasive learning), and helped run experiments on baseline models.
+       * Helped run the experiments on new designed model over two tasks: malicious user detection and malicious tweet detection.  
+       * Assisted the first author to draft a manuscript of the work and submitted to [ICDM](https://icdm22.cse.usf.edu/) conference. 
   - title: Network-based virus-host interaction prediction with application to
       SARS-CoV-2
     company: Advised by Prof. Pengyu Hong
@@ -44,8 +45,8 @@ experience:
     description: >-2
        Responsibilities include:
        
-       * Designed the front end of the paper that displays the relationship between the protein groups of different types of coronavirus with different hosts.                   Further, by taking advantage of machine learning, the paper presented a prediction of other connections between those two protein groups.
-       * Developed the [website](https://franciscoliu.github.io/detailed-virus-host.github.io/) through HTML, CSS, AJAX, Java, JQuery, etc. Imported the previous work           data of the paper from [github](https://github.com/hangyu98/IMSP). (Simple version of the [website](https://franciscoliu.github.io/francisco.github.io-virus-host/))
+       * Designed the [website](https://franciscoliu.github.io/detailed-virus-host.github.io/) through front end languages (HTML, CSS, Javascript, AJAX, etc.) to             display the relationship between the protein groups of different types of coronavirus with different hosts.
+       * Imported the previous work data of the paper from [github](https://github.com/hangyu98/IMSP) to construct website, which can be used to identify                       potential infected host groups based on similar structure of the protein groups. (Simple version of the [website](https://franciscoliu.github.io/francisco.github.io-virus-host/)) 
        * Updated website based on the most recent result given by the algorithm. 
   - title: Visualizing the COVID-19 Trend Prediction
     company: Advised by Pengyu Hong
@@ -57,8 +58,9 @@ experience:
     description: >-2
        Responsibilities include:
        
-       * Designed a [website](https://franciscoliu.github.io/covid-19-prediction.github.io/) to hold data of a machine learning algorithm that predicted the                     COVID-19 trend based on the ground truth using Javascript, HTML, CSS, AJAX, Python. 
-       * Pulled data from Airtable and transferred it using Python to make it compatible with the website. Later combined with front end to be user friendly.
+       * Designed a [website](https://franciscoliu.github.io/covid-19-prediction.github.io/) to hold data of a machine learning algorithm that predicted the COVID-19 trend based on the ground truth using front end languages (Javascript, HTML, CSS, etc. ) and python.
+       * Pulled data from Airtable and transferred it using Python to make it compatible with the website.
+       * Modified the website to be user-friendly, which also serves as a platform to compare the groundtruth/predicted cases of each state.
        * Co-published the [work](https://www.medrxiv.org/content/10.1101/2021.01.04.21249218v1.full) to medRxiv. 
 design:
   columns: "4"
