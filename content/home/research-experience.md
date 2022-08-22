@@ -5,8 +5,7 @@ weight: 40
 title: Research Experience
 date_format: Jan 2006
 experience:
-  - title: Improving Generalization ability of GNN under Adversarial and Fairness
-      Training
+  - title: Improving Fairness of GNN Representation by diversity discovery
     company: Advised by Prof. Chuxu Zhang
     company_url: https://chuxuzhang.github.io/
     company_logo: null
@@ -16,9 +15,11 @@ experience:
     description: >-2
        Responsibilities include:
        
-       * Plotted the loss landscape of GNN model under Adversarial training and Fairness data to compare the difference with regular GNN model. 
-       * Researched about Mixture of Expert (MOE), Lottery ticket and model sparsity. Later, attempted to improve the generalization ability of GNN model under                   Adversarial training and Fairness data setup.
-       * Analyzed the new loss landscape after modification and found the possible reason of such transformation. 
+       * Analyzed the unique property of graph fairness data. 
+       * Aimed to boost the performance of GNN model on fairness graph data while alleviating the oversmoothing problem.
+       * Enriched the representation diversity of model from three perspectives: the node embedding of fairness graph data, learned representation across different             experts in [Mixed of Expert (MOE)](https://machinelearningmastery.com/mixture-of-experts/), and learned representation across different-depth layers.
+       * Analyzed loss landscape of the model to  empirically and theoretically explain the effectiveness of diversity learning. 
+       * Successfully improved the accuracy of a newly designed GNN based model under adversarial training and fairness data while restraining the oversmooth problem           from happening.
   - title: Bridging Graph and Text for Malicious Behavior Detection on Social Media
     company: Advised by Prof. Chuxu Zhang
     company_url: https://chuxuzhang.github.io/
