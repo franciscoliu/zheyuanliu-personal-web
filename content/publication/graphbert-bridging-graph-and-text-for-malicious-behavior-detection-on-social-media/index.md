@@ -4,7 +4,7 @@ title: "GraphBERT: Bridging Graph and Text for Malicious Behavior Detection on
 publication_types:
   - "0"
 authors:
-  - (Coming Soon)
+  - (Camera Ready Soon)
 publication: ICDM 2022
 draft: false
 featured: false
