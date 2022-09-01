@@ -5,6 +5,7 @@ publication_types:
   - "0"
 authors:
   - (Coming Soon)
+publication: ICDM 2022
 draft: false
 featured: false
 image:
