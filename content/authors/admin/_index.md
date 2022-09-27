@@ -51,4 +51,4 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis Univ
 {{< icon name="calendar" pack="fas" >}} **Upcoming News**: 
 
 * **2022/8/14** I will be attending [KDD](https://kdd.org/kdd2022/) conference located at Washington DC this upcoming August. I am looking forward talking to you!
-* **2﻿022/8/31** Our paper was selected for publiction as a regular paper for** [ICDM 2022](https://easychair.org/cfp/icdm2022)!**
+* **2﻿022/8/31** Our paper was selected for publication as a regular paper for** [ICDM 2022](https://easychair.org/cfp/icdm2022)!**
