@@ -2,8 +2,8 @@
 title: "Zheyuan (Frank) Liu "
 role: Senior Student majoring in Computer Science and Applied Math
 avatar_filename: avatar.jpg
-bio: My research interests include Machine Learning, Deep Learning,
-  Data-Efficient AI, Graph Mining, Cybersecurity
+bio: My research interests include Machine Learning, Cybersecurity, Deep
+  Learning, Data-Efficient AI, Graph Mining
 interests:
   - Machine Learning and Deep Learning
   - Graph Mining
