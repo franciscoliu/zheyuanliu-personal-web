@@ -16,7 +16,7 @@ abstract: The importance of pandemic forecast cannot be overemphasized. We
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Yifei Wang
   - Hao (Michael) Peng
