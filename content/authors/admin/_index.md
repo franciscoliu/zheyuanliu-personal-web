@@ -7,8 +7,8 @@ bio: My research interests include Machine Learning, Cybersecurity, Deep
 interests:
   - Machine Learning and Deep Learning
   - Graph Mining
+  - Federated Learning
   - Data-Efficient AI
-  - GNN Fairness
 social:
   - icon: envelope
     icon_pack: fas
@@ -52,3 +52,4 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis Univ
 
 * **2022/8/14** I will be attending [KDD](https://kdd.org/kdd2022/) conference located at Washington DC this upcoming August. I am looking forward talking to you!
 * **2﻿022/8/31** Our paper was selected for publication as a regular paper for** [ICDM 2022](https://easychair.org/cfp/icdm2022)!**
+* **2﻿022/10/14** A paper has been submitted to [WWW](https://www2023.thewebconf.org/) conference (me as first author).
