@@ -70,10 +70,20 @@ abstract: >-
 
   malicious user detection).
 draft: false
-featured: false
+featured: true
 image:
   filename: icdm22.png
   focal_point: Smart
   preview_only: false
+summary: |-
+  In this paper, we reveal the necessity of malicious behavior
+  detection on social media and propose a dataset with both user
+  and tweet labels for this research. To integrate both structural
+  and semantic information, we create a graph with multiple
+  nodes including users, tweets, mentions, hashtags, topics, and
+  multiple-name entities. Based on the graph data, we introduce
+  a novel GraphBERT model which integrates both semantic
+  and relational information.
 date: 2022-09-01T19:54:54.830Z
 ---
+H﻿ere is the [link ](https://aragakiyuiii.github.io/data/GraphBERT-%20Bridging%20Graph%20and%20Text%20for%20Malicious%20Behavior%20Detection%20on%20Social%20Media-ICDM22.pdf)to the paper, the conference version is TBD.
