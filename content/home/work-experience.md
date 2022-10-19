@@ -13,7 +13,7 @@ experience:
     description: >-2
         Responsibilities include:
         
-        * Acted as teaching assistant for Python, JAVA and Operating System class,
+        * Acted as teaching assistant for Python, JAVA and Operating System classes (3 different courses),
           held office hours each week helping students with programming assignments
           and questions about the content from the lecture.
         * Assisted Professor grade assignments, exams and gave feedback to students.
