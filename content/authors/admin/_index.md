@@ -7,6 +7,7 @@ bio: My research interests include Machine Learning, Cybersecurity, Deep
 interests:
   - Machine Learning and Deep Learning
   - Graph Mining
+  - Cybersecurity
   - Federated Learning
   - Data-Efficient AI
 social:
