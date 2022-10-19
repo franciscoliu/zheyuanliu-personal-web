@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Jiele Wu
   - Chunhui Zhang
-  - Zheyuan Liu
+  - admin
   - Erchi Zhang
   - Steven Wilson
   - and Chuxu Zhang
