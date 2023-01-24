@@ -3,7 +3,7 @@ title: "Chasing All-Round Graph Representation Robustness: Model, Training, and
   Optimization"
 publication_types:
   - "1"
-author_notes:
+authors:
   - Chunhui Zhang
   - Yijun Tian
   - Mingxuan Ju
@@ -11,6 +11,7 @@ author_notes:
   - Yanfang Ye
   - Nitesh Chawla
   - and Chuxu Zhang
+author_notes: []
 publication: ICLR 2023
 abstract: "Graph Neural Networks (GNNs) have achieved state-of-the-art results
   on a variety of graph learning tasks, however, it has been demonstrated that
