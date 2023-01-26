@@ -12,7 +12,8 @@ authors:
   - Nitesh Chawla
   - and Chuxu Zhang
 author_notes: []
-publication: ICLR 2023
+publication: The 11th International Conference on Learning Representations
+publication_short: ICLR 2023
 abstract: "Graph Neural Networks (GNNs) have achieved state-of-the-art results
   on a variety of graph learning tasks, however, it has been demonstrated that
   they are vulnerable to adversarial attacks, raising serious security concerns.
