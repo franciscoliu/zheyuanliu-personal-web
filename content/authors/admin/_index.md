@@ -55,4 +55,4 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis Univ
 * **2﻿022/8/31** Our paper was selected for publication as a regular paper for** [ICDM 2022](https://easychair.org/cfp/icdm2022)!**
 * **2﻿022/10/14** A paper has been submitted to [WWW](https://www2023.thewebconf.org/) conference (me as first author).
 * **2023/1/21** Our paper was selected for publication as a regular paper for **[ICLR 2023](https://iclr.cc/)!**
-* ﻿**2023/1/25** Our paper was selected for publication as a regular paper for[WWW](https://www2023.thewebconf.org/) conference!
+* ﻿**2023/1/25** Our paper was selected for publication as a regular paper for **[WWW](https://www2023.thewebconf.org/)** conference!
