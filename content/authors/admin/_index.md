@@ -51,8 +51,6 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis Univ
 
 {{< icon name="calendar" pack="fas" >}} **Upcoming News**: 
 
-* **2022/8/14** I will be attending [KDD](https://kdd.org/kdd2022/) conference located at Washington DC this upcoming August. I am looking forward talking to you!
-* **2﻿022/8/31** Our paper was selected for publication as a regular paper for** [ICDM 2022](https://easychair.org/cfp/icdm2022)!**
-* **2﻿022/10/14** A paper has been submitted to [WWW](https://www2023.thewebconf.org/) conference (me as first author).
-* **2023/1/21** Our paper was selected for publication as a regular paper for **[ICLR 2023](https://iclr.cc/)!**
+* I﻿ will be joining **[University of Notre dame](https://www.nd.edu/)** to work with **[Prof. Meng Jiang](http://www.meng-jiang.com/)**. Looking forward to start my new PhD journey!
 * ﻿**2023/1/25** Our paper was selected for publication as a regular paper for **[WWW](https://www2023.thewebconf.org/)** conference!
+* **2023/1/21** Our paper was selected for publication as a regular paper for **[ICLR 2023](https://iclr.cc/)!**
