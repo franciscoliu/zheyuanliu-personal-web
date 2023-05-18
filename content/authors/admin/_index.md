@@ -47,7 +47,7 @@ highlight_name: true
 ---
 Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis University studying Computer Science (B.S) and Applied Mathematics, advised by [Prof. Chuxu Zhang](https://chuxuzhang.github.io/index.html). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ZheyuanLiu_s_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ZheyuanLiu_s_CV.pdf" "newtab" >}}resumé{{< /staticref >}}. Here is my new academic[website](https://franciscoliu.github.io/).
 
 {{< icon name="calendar" pack="fas" >}} **Upcoming News**: 
 
