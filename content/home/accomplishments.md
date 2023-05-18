@@ -32,6 +32,14 @@ item:
     organization_url: https://www.cnipa.gov.cn/
     title: Patent of a new type of packing tool
     url: ""
+  - certificate_url: https://www.brandeis.edu/science/prizes-awards/index.html
+    date_end: ""
+    date_start: 2023-05-09
+    description: Each year, students in the Division of Science who have excelled in academics and research are selected to receive numerous prizes and awards in     recognition of their effort. Undergraduates are typically nominated by a faculty member or members who provide a letter detailing why the student deserves the     honor. 
+    organization: Brandeis University
+    organization_url: https://www.brandeis.edu/
+    title: Molly W. and Charles K. Schiff Memorial Award in Science (top 5%)
+    url: ""
 widget_id: Awards and Honors
 headless: true
 weight: 60
